@@ -63,11 +63,6 @@
 - Cookie-based Auth (HttpOnly)
 - CORS + dotenv
 
----
-
-
-
----
 
 ## راه‌اندازی پروژه (کمتر از ۲ دقیقه)
 
@@ -94,7 +89,7 @@ MONGO_URI=mongodb://127.0.1:27017/user-management
 JWT_SECRET=your_very_strong_secret_key_2025
 NODE_ENV=development
 
-
+---
 توسعه‌دهنده
 
 نام: Dariush Rahmani
