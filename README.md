@@ -65,32 +65,6 @@
 
 ---
 
-## ساختار پروژه
-
-
-
-user-management-pro/
-├── backend/
-│   ├── config/           → اتصال دیتابیس
-│   ├── controllers/      → منطق اصلی
-│   ├── middleware/       → احراز هویت و نقش‌بندی
-│   ├── models/           → Member (حل OverwriteModelError)
-│   ├── routes/           → API routes
-│   ├── .env
-│   ├── app.js
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/   → Layout, Sidebar, ProtectedRoute
-│   │   ├── context/      → AuthContext
-│   │   ├── pages/        → Login, Register, Dashboard, Admin Panel
-│   │   ├── services/     → Axios instance
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── tailwind.config.js
-└── README.md
-
-
 
 
 ---
